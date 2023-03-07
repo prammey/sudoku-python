@@ -1,1 +1,1 @@
-# python-projects
+# sudoku-python
